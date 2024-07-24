@@ -1,0 +1,78 @@
+
+body{
+    margin-left: 0px;
+   text-align: justify;
+   
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    display:inline-block;
+    /* position:relative;
+    top:20px; */
+    margin-right: 50px;
+    
+}
+header{
+    background-color: rgb(64,64,64);
+    margin-top: 0px;
+    color: white;
+    position: sticky;
+    top:0px;
+    margin-left:95px;
+    padding-left: 0px;
+    height: fit-content;
+    width: 89%;
+    margin-right:95px;
+}
+
+
+
+h2{
+    color: rgb(97, 14, 14);
+    background-color: rgba(109, 94, 94,0.3);
+    text-align: center;
+}
+h6{
+    color: white;
+    font-size: 16px;
+    margin-top: 15px;
+    
+}
+img{
+    margin-top: 10px;
+    margin-bottom: -20px;
+    border-radius: 50%;
+    border: 2px solid rgb(237, 167, 179);
+}
+
+
+section{
+    background-color: papayawhip;
+margin-left: 20px;
+padding-left: 20px;
+
+}
+th{
+    padding: 15px;
+}
+
+td{
+    padding: 10px;
+    text-align: left;
+}
+#ask:hover{
+    background-color: brown;
+}
+#git{
+    position: inline-block;
+}
+main{
+    width: 90%;
+   text-align: justify;
+
+}
+tr:hover{
+    background-color: azure;
+}
